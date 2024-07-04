@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ca.bornais.radixconverter.twa",
+        "sha256_cert_fingerprints": ["6F:E9:08:2C:39:6D:22:D4:AD:41:12:1B:9A:9D:BD:9B:81:66:91:23:71:4E:D7:04:8B:B7:F0:E0:F4:80:EE:0B"]
+      }
+    }]
