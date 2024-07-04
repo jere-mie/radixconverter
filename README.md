@@ -1,2 +1,3 @@
-# radixconverter
-A simple PWA that allows you to easily convert numbers between different radices
+# Radix Converter
+
+Easily convert numbers between different radices
