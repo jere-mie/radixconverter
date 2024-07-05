@@ -1,8 +1,10 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "ca.bornais.radixconverter.twa",
-        "sha256_cert_fingerprints": ["6F:E9:08:2C:39:6D:22:D4:AD:41:12:1B:9A:9D:BD:9B:81:66:91:23:71:4E:D7:04:8B:B7:F0:E0:F4:80:EE:0B"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.wajwuz",
+      "sha256_cert_fingerprints": ["A1:64:F7:F3:7D:31:11:D2:14:5B:CF:3F:A8:DE:B9:35:E3:A0:08:AB:0B:5E:AF:7B:65:63:07:42:07:91:A2:DA"]
+    }
+  }
+]
